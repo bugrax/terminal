@@ -236,7 +236,7 @@ works for other browsers, whereas Eric's version is optimized for Chrome.
 
 (The MIT License)
 
-Copyright (c) 2012 Sasa Djolic, SDA Software Associates Inc.
+Copyright (c) 2012.
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
